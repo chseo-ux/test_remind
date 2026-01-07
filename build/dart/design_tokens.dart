@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 // Design Tokens from Figma
-// Generated: 2026-01-07T06:36:31.123Z
+// Generated: 2026-01-07T06:39:05.000Z
 
 import 'package:flutter/material.dart';
 
