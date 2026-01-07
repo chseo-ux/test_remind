@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 // Design Tokens from Figma
-// Generated: 2026-01-07T05:51:56.789Z
+// Generated: 2026-01-07T06:12:06.519Z
 
 import 'package:flutter/material.dart';
 
@@ -453,7 +453,7 @@ class DesignTokens {
   static const Color modeLightBaseBorder = Color(0xFFE5E5E5);
   static const Color modeLightBaseCard = Color(0xFFFEE2E2);
   static const Color modeLightBaseCardForeground = Color(0xFF0A0A0A);
-  static const Color modeLightBaseDestructive = Color(0xFFDC2626);
+  static const Color modeLightBaseDestructive = Color(0xFFB91C1C);
   static const Color modeLightBaseDestructiveForeground = Color(0xFFFEF2F2);
   static const Color modeLightBaseForeground = Color(0xFF0A0A0A);
   static const Color modeLightBaseInput = Color(0xFFE5E5E5);
@@ -493,9 +493,9 @@ class DesignTokens {
   static const Color modeLightCustomBackgroundDark:input\30 = Color(0xFF0A0A0A);
   static const Color modeLightCustomAccentDark:input\50 = Color(0xFF404040);
   static const Color modeLightCustomOutline = Color(0xA3A3A380);
-  static const Color modeLightCustomDestructiveDark:destructive\70 = Color(0xFFDC2626);
-  static const Color modeLightCustomDestructiveDark:destructive\90 = Color(0xFFDC2626);
-  static const Color modeLightCustomDestructiveDark:destructive\60 = Color(0xFFDC2626);
+  static const Color modeLightCustomDestructiveDark:destructive\70 = Color(0xFFB91C1C);
+  static const Color modeLightCustomDestructiveDark:destructive\90 = Color(0xFFB91C1C);
+  static const Color modeLightCustomDestructiveDark:destructive\60 = Color(0xFFB91C1C);
   static const Color modeLightCustomDark:input = Color(0xFFFFFF00);
   static const Color modeLightCustomInputDark:input\80 = Color(0xFFFFFF26);
   static const Color modeLightCustomDestructive\20Dark:destructive\40 = Color(0xDC262633);
@@ -512,7 +512,7 @@ class DesignTokens {
   static const Color modeDarkBaseBorder = Color(0xFFFFFF1A);
   static const Color modeDarkBaseCard = Color(0xFF171717);
   static const Color modeDarkBaseCardForeground = Color(0xFFFAFAFA);
-  static const Color modeDarkBaseDestructive = Color(0xFFDC2626);
+  static const Color modeDarkBaseDestructive = Color(0xFFB91C1C);
   static const Color modeDarkBaseDestructiveForeground = Color(0xFFFEF2F2);
   static const Color modeDarkBaseForeground = Color(0xFFFAFAFA);
   static const Color modeDarkBaseInput = Color(0xFFFFFF26);
@@ -578,7 +578,7 @@ class DesignTokens {
   static const Color themeDefaultColorsAccentDark = Color(0xFF404040);
   static const Color themeDefaultColorsCardForegroundLight = Color(0xFF0A0A0A);
   static const Color themeDefaultColorsCardForegroundDark = Color(0xFFFAFAFA);
-  static const Color themeDefaultColorsDestructiveLight = Color(0xFFDC2626);
+  static const Color themeDefaultColorsDestructiveLight = Color(0xFFB91C1C);
   static const Color themeDefaultColorsDestructiveDark = Color(0xFFF87171);
   static const Color themeDefaultColorsDestructiveForegroundLight = Color(0xFFFEF2F2);
   static const Color themeDefaultColorsDestructiveForegroundDark = Color(0xFFFEF2F2);
@@ -891,7 +891,7 @@ class DesignTokens {
   static const Color colorsAccentDark = Color(0xFF404040);
   static const Color colorsCardForegroundLight = Color(0xFF0A0A0A);
   static const Color colorsCardForegroundDark = Color(0xFFFAFAFA);
-  static const Color colorsDestructiveLight = Color(0xFFDC2626);
+  static const Color colorsDestructiveLight = Color(0xFFB91C1C);
   static const Color colorsDestructiveDark = Color(0xFFF87171);
   static const Color colorsDestructiveForegroundLight = Color(0xFFFEF2F2);
   static const Color colorsDestructiveForegroundDark = Color(0xFFFEF2F2);
@@ -1119,7 +1119,7 @@ class DesignTokens {
   static const Color baseBorder = Color(0xFFFFFF1A);
   static const Color baseCard = Color(0xFF171717);
   static const Color baseCardForeground = Color(0xFFFAFAFA);
-  static const Color baseDestructive = Color(0xFFDC2626);
+  static const Color baseDestructive = Color(0xFFB91C1C);
   static const Color baseDestructiveForeground = Color(0xFFFEF2F2);
   static const Color baseForeground = Color(0xFFFAFAFA);
   static const Color baseInput = Color(0xFFFFFF26);
