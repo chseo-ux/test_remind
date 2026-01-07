@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          clean: true  # ⭐ 추가: 체크아웃 시 클린
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -24,6 +26,9 @@ jobs:
       
       - name: Install dependencies
         run: npm install
+      
+      - name: Clean build directory  # ⭐ 새로운 단계
+        run: rm -rf build/
       
       - name: Build tokens
         run: npm run build:tokens
