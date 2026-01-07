@@ -1,0 +1,11 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "scripts": {
+    "build:tokens": "token-transformer tokens/tokens.json tokens/transformed.json && style-dictionary build && node add-px-units.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.9.0",
+    "token-transformer": "^0.0.33"
+  }
+}
