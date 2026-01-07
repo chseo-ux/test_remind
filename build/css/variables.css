@@ -445,7 +445,7 @@
   --mode-light-base-border: #e5e5e5;
   --mode-light-base-card: #fee2e2;
   --mode-light-base-card-foreground: #0a0a0a;
-  --mode-light-base-destructive: #991b1b;
+  --mode-light-base-destructive: #b91c1c;
   --mode-light-base-destructive-foreground: #fef2f2;
   --mode-light-base-foreground: #0a0a0a;
   --mode-light-base-input: #e5e5e5;
@@ -485,9 +485,9 @@
   --mode-light-custom-background-dark-input-30: #0a0a0a;
   --mode-light-custom-accent-dark-input-50: #404040;
   --mode-light-custom-outline: #a3a3a380;
-  --mode-light-custom-destructive-dark-destructive-70: #991b1b;
-  --mode-light-custom-destructive-dark-destructive-90: #991b1b;
-  --mode-light-custom-destructive-dark-destructive-60: #991b1b;
+  --mode-light-custom-destructive-dark-destructive-70: #b91c1c;
+  --mode-light-custom-destructive-dark-destructive-90: #b91c1c;
+  --mode-light-custom-destructive-dark-destructive-60: #b91c1c;
   --mode-light-custom-dark-input: #ffffff00;
   --mode-light-custom-input-dark-input-80: #ffffff26;
   --mode-light-custom-destructive-20-dark-destructive-40: #dc262633;
@@ -504,7 +504,7 @@
   --mode-dark-base-border: #ffffff1a;
   --mode-dark-base-card: #171717;
   --mode-dark-base-card-foreground: #fafafa;
-  --mode-dark-base-destructive: #991b1b;
+  --mode-dark-base-destructive: #b91c1c;
   --mode-dark-base-destructive-foreground: #fef2f2;
   --mode-dark-base-foreground: #fafafa;
   --mode-dark-base-input: #ffffff26;
@@ -570,7 +570,7 @@
   --theme-default-colors-accent-dark: #404040;
   --theme-default-colors-card-foreground-light: #0a0a0a;
   --theme-default-colors-card-foreground-dark: #fafafa;
-  --theme-default-colors-destructive-light: #991b1b;
+  --theme-default-colors-destructive-light: #b91c1c;
   --theme-default-colors-destructive-dark: #f87171;
   --theme-default-colors-destructive-foreground-light: #fef2f2;
   --theme-default-colors-destructive-foreground-dark: #fef2f2;
@@ -7605,7 +7605,7 @@
   --colors-accent-dark: #404040;
   --colors-card-foreground-light: #0a0a0a;
   --colors-card-foreground-dark: #fafafa;
-  --colors-destructive-light: #991b1b;
+  --colors-destructive-light: #b91c1c;
   --colors-destructive-dark: #f87171;
   --colors-destructive-foreground-light: #fef2f2;
   --colors-destructive-foreground-dark: #fef2f2;
@@ -7833,7 +7833,7 @@
   --base-border: #ffffff1a;
   --base-card: #171717;
   --base-card-foreground: #fafafa;
-  --base-destructive: #991b1b;
+  --base-destructive: #b91c1c;
   --base-destructive-foreground: #fef2f2;
   --base-foreground: #fafafa;
   --base-input: #ffffff26;
@@ -8364,4 +8364,5 @@
   --token-set-order-40: Font theme/Wireframe;
   --token-set-order-41: Typescale/Baseline;
   --token-set-order-42: Shape/Baseline;
+  --token-set-order-43: m3;
 }
