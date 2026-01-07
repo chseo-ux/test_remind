@@ -1,4 +1,10 @@
 const StyleDictionary = require('style-dictionary');
+const fs = require('fs-extra'); // ⭐ 추가!
+
+// ⭐ 빌드 전에 기존 파일 삭제
+if (fs.existsSync('./build')) {
+  fs.removeSync('./build');
+}
 
 // Flutter 전용 Name Transform (완성!)
 StyleDictionary.registerTransform({
